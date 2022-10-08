@@ -1,4 +1,6 @@
-# csvToJson
+# Parse CSV to JSON
+
+This application is for parsing incoming data and converting the result of the parsing into the resulting format.
 
 Run this Project
 1. mvn clean install
